@@ -1,6 +1,7 @@
 It's a simple layout design project. 
 Ask for the user email,password 
 If the user name or email/ password is empty, toast will shows the error message
+
 ![WeChat Screenshot_1](https://user-images.githubusercontent.com/70305543/93956463-48c6f280-fd20-11ea-9a44-cfebd5c23c07.png)
 
 If the password doesn't match the confirm password then the error message will show tp as well.
